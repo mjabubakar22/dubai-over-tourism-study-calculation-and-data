@@ -3,7 +3,7 @@
 This repository contains the analytical framework and raw data processing for my undergraduate dissertation at **Middlesex University, Dubai**.
 
 ## 🚀 Quick Access
-*   **[View Analysis Notebook (Python)]([https://github.com](https://github.com/mjabubakar22/dubai-over-tourism-study-calculation-and-data/blob/main/tourism-pressure-analysis.ipynb))**
+*   **[View Analysis Notebook (Calculations & Methodology)](https://github.com/mjabubakar22/dubai-over-tourism-study-calculation-and-data/blob/main/tourism-pressure-analysis.ipynb)
 
 ## 📊 Project Scope
 This research quantitatively examines how tourism intensity affects housing and consumer price indices (CPI) in Dubai. It utilizes a **tourist-to-resident ratio** to measure overtourism pressure across pre- and post-COVID timelines.
