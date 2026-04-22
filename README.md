@@ -2,6 +2,9 @@
 
 This repository contains the analytical framework and raw data processing for my undergraduate dissertation at **Middlesex University, Dubai**.
 
+## 🚀 Quick Access
+*   **[View Analysis Notebook (Python)](https://github.com)**
+
 ## 📊 Project Scope
 This research quantitatively examines how tourism intensity affects housing and consumer price indices (CPI) in Dubai. It utilizes a **tourist-to-resident ratio** to measure overtourism pressure across pre- and post-COVID timelines.
 
